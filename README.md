@@ -5,6 +5,9 @@
   <em>Because life's too short to wait through unskippable ads.</em>
 </p>
 
+
+
+
 <p align="center">
   <img src="https://img.shields.io/chrome-web-store/v/your-extension-id?label=Chrome%20Web%20Store&color=blue&style=for-the-badge">
   <img src="https://img.shields.io/badge/Built%20With-JavaScript%20%7C%20Chrome%20API-yellow?style=for-the-badge">
@@ -12,6 +15,8 @@
 </p>
 
 ---
+
+
 
 ## 🎯 What is YouSkip?
 
@@ -21,7 +26,13 @@
 🕹️ No manual clicking.  
 💨 Just pure, smooth, uninterrupted video.
 
----
+
+Working Video:
+
+https://www.linkedin.com/posts/shreesh-sanyal_adfreeviewing-activity-7266873349304131584-MuCV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQfcz4B5Og0CfeuW2qS7o1-O5hql5j9Xhw
+
+
+
 
 ## ⚙️ Features
 
